@@ -24,6 +24,8 @@ public class Es_Ereditarietà {
         g.InsertPoligono(4, 4, "triangolo");
         g.printAree();
         System.out.println("Numero elementi:" + g.getNumElem());
+
+        // commento di ste
         
     }
     
