@@ -27,6 +27,8 @@ public class Es_Ereditarietà {
 
         // commento di ste
         
+        // 2 commento di ste
+        
     }
     
 }
